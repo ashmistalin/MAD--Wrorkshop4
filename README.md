@@ -77,7 +77,9 @@ protected void onCreate(Bundle savedInstanceState)
 
 ## OUTPUT:
 
-![image](https://github.com/ashmistalin/MAD-workshop2/assets/103128410/c657f09f-2cdb-44b3-8419-68ff810648d6)
-![image](https://github.com/ashmistalin/MAD-workshop2/assets/103128410/6a5f1c2d-9243-44bf-a3d8-646f47eeeaf1)
-![image](https://github.com/ashmistalin/MAD-workshop2/assets/103128410/2706d183-85f9-4978-a1a2-dc22aca4a919)
+![Screenshot (380)](https://github.com/ashmistalin/MAD--Wrorkshop4/assets/103128410/9e3ca2fe-57ca-4e28-82c7-1d61e76a7283)
+![Screenshot (379)](https://github.com/ashmistalin/MAD--Wrorkshop4/assets/103128410/96b7d06d-7b35-480d-b578-2a02b28ee9e2)
+
+## RESULT:
+Thus designing a simple application to display/play the video in android activity or view using raw folder is completed.
 
