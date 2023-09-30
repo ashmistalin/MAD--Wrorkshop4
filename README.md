@@ -5,6 +5,8 @@
 ## AIM:
 To design a simple application to display/play the video in android activity or view using raw folder.
 
+
+
 ## PROGRAM:
 ```
 /*
